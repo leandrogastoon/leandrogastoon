@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente aprendiendo programación con React js y<br>trabajando en mi portfolio de proyectos, en busca de mi <br>primer experiencia profesional en el mundo de la programación
+Actualmente estudiando React js y<br>trabajando en mi portfolio de proyectos, en busca de mi <br>primer experiencia profesional en el mundo de la programación.
 
 
 ## 🌐 Socials:
